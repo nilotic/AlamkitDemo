@@ -1,0 +1,9 @@
+/*
+ InfoPlist.strings
+ AlarmKitDemo
+
+ Created by Den on 3/25/26.
+ */
+
+"NSAlarmKitUsageDescription" = "앱에서 생성한 알람을 추가합니다.";
+

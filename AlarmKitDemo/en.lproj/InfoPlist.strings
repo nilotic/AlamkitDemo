@@ -1,0 +1,9 @@
+/*
+ InfoPlist.strings
+ AlarmKitDemo
+
+ Created by Den on 3/25/26.
+ */
+
+"NSAlarmKitUsageDescription" = "We'll schedule alerts for alarms you create within our app.";
+
